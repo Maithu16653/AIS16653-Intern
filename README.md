@@ -6,3 +6,5 @@ If condition,else condition,elif Condition,for loop,While loop
 Break Statement,Pass Statement,Continue Statement,Statistical user define functions,logical user define functions.
 **Task 4**
 Numpy Library
+**Task 6**
+Matplotlib and Seaborn Library
